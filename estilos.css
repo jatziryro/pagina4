@@ -9,7 +9,7 @@ body{
 /*Encabezado*/
 
 header{
-    background-color: dimgray;
+    background-color: rgb(200, 114, 144);
     color: #fff;
     padding: 10px 5px;
     display: flex;
